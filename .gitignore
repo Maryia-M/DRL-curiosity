@@ -1,0 +1,9 @@
+*.pyc
+*.py~
+__pycache__/
+
+# Virtualenv
+/env
+/venv
+
+logs/
