@@ -2,6 +2,7 @@
 
 In this experiments we used library [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3).
 
+This is based on https://github.com/khalilsarwari/episodic-curiosity
 
 you need to install the following dependencies gym>=0.17, numpy, torch>=1.4.0, dotmap, cloudpickle, pandas, matplotlib
 
